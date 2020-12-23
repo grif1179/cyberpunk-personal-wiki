@@ -1,0 +1,138 @@
+* MAJOR
+** BASE
+*** Kerry Eurodyne
+    - Class: Rockerboy
+    - Wiki Link: https://cyberpunk.fandom.com/wiki/Kerry_Eurodyne
+:BIO:
+Kerry became famous by being vocals and lead/rhythm guitar for Samurai.
+He shared his friend's, Johnny Silverhand, view of changing the world through music,
+but at some point wanted to bring his own message to the people. Ever since he and
+superstar Johnny Silverhand parted ways, after the disbanding of Samurai,
+he became a solo artist. Later he was also extremely successful as a solo artist and
+dealt with a lot of injustice and terrible events in world affairs in his texts,
+which his audience - much to their concern - did not always understand correctly.
+He's withstood the test of time. His albums have gone platinum.
+His broken guitars have been auctioned for thousands of Eurodollars.
+And his singing voice is recognized worldwide.
+:END:
+*** Morgan Blackhand
+    - Class: Solo
+    - Link: https://cyberpunk.fandom.com/wiki/Morgan_Blackhand
+:BIO:
+Morgan Blackhand is a pragmatic Solo with an anodized black-chrome cyberlimb arm.
+Generally considered to be a "Solo's Solo", with years of experience and ops under his belt.
+Rated as the number one Solo professional in the business by the Solo of Fortune Annual 2020 Awards in the US.
+
+Morgan Blackhand is defined by the fact that he is a pragmatist.
+Blackhand survives because he is street-smart and is constantly looking out for his own best interest.
+His reputation as a top Solo is partly due to the fact that he is able to capture targets alive,
+rather than simply killing them. He is also a skilled Techie, as not to have to rely on others to
+repair his tech, and has some training in martial arts.
+
+Morgan's handling of incidents, like the attempted kidnapping of Kerry Eurodyne, show the touch of the mastery.
+It is interesting to note that all five of the kidnappers were captured by Morgan (alone),
+and turned over to Federal Authorities. They were bruised, battered and beaten, but alive.
+Only a master like Blackhand can eliminate a threat and embarrass the group's sponsors.
+
+Morgan goes for the highest bidder, he has no agenda and no aspirations to be anything more than he is.
+Instead he only takes the jobs given to him and accomplishes them however he sees fit. 
+:END:
+*** Sgt. Max Hammerman
+    - Class: Cop
+:BIO:
+Max Hammerman is a sergeant for the Night City Police Department in the Cyberpunk 2020 setting.
+Noted to have specifically worked with one of the departments Cybersquads.
+
+"Drop it, punk. I don't wanna hear your life story, and I don't care what Society did to you. 
+I just wanna see that gun hit the floor. Now... Before I give you an extra nostril.."
+:END:
+*** Phil "Nacho" Hernandez
+    - Class: Fixer
+:BIO:
+Phil Hernandez is a fixer mentioned in the Cyberpunk 2020 Core Rulebook.[1]
+Quotes
+
+"Don't give me this 'Robin Hood' Stuff. I'm doin' a job, no more. 
+I give people what they want, an' they pay me out.
+
+Okay, so maybe I even a few scores here and there, but that's good for Business. 
+You make a friend- they'll take you in when the Street's too hot, 
+and they'll pass you a few bits of data when you call in the markers. But that's business.
+
+I got a slogan... 'How much you pay me?'" 
+:END:
+*** Nomad Santiago
+    - Class: Nomad
+:BIO:
+Santiago is a Nomad who runs with the Aldecaldo Pack;
+displaced farmers thrown off their land by the Corporations.
+
+Santiago is a simple guy-- he likes girls, guns and fast cyberbikes.
+He teams with Rogue mostly because she's the one girl he hasn't been able to score with yet.
+
+-- Quotes --
+
+"Guns. Guns and cyberbikes. That's how we hold the line. We don't have any 
+home except the Caravan. We don't have any rights except what we take. 
+We get run out of town by the cops; we get raided by the roadwarrior packs, 
+and we survive because we've got guns and bikes...
+
+There's kids, old men and women- families here. 
+This ain't no boostergang. 
+These people are my family." 
+:END:
+
+*** Spider Murphy
+    - Class: Netrunner
+    - Link:
+:BIO:
+"You guys who live in Realspace; you move so slow. Me I like Netspace. It moves fast. You don't get old, 
+you don't get slow and sloppy. You just leave the meat behind and go screamin'.
+
+First system I ever hit, I think they had some weeflerunner playin' Sysop for them. 
+I burned in, and jolted the guy with a borrowed Hellbolt, and did the major plunder 
+action all over the Data Fortress.
+
+Somewhere out there is a guy with half his forebrain burned out. 
+I wonder if they ever found the body. I wonder if they'll find mine the same way..."
+
+-Spider Murphy, Cyberpunk 2020 Core Rulebook
+
+Alternate Timeline:
+
+In Firestorm: Shockwave Spider Murphy recovered Alt, marked her personality file and threw her
+somewhere on the net to be retrieved later. She also captured Kei Arasaka in his escape submarine
+and pressured him into committing "seppuku" by running the Soulkiller 3.0 on himself; he then did so. 
+:END:
+*** Lyle McClellan
+    - Class: Medias
+:BIO:
+Lyle McClellan is a media for network 54.
+
+"Okay, so it's dangerous. Look, I'll tell you something. 
+When I was a kid, I use to watch those reporters on the TV news. 
+They wore those chill trenchcoats and were always broadcasting from some exotic place like 
+Mozambique or Saigon. They went right into the Central American warzones with the cybergrunts, 
+and they got the story even when the shooting was maximally fierce.
+
+That's the part I like; the danger." 
+:END:
+ 
+*** Mister Ice
+    - Class: Techie
+:BIO:
+"So you want me to build a delay switch into the thing? And you don't care about the explosion radius?
+
+No problem. At least you got a simple job. Last guy in here, 
+he wanted me to build him a cyber hand that had a built-in ...aw, frack, you don't wanna know. 
+People want the weirdest stuff these days...
+
+I hear with the new cyberwear they're coming up with in Chiba, 
+you're gonna be able to cram your body with more options than a frackin' 
+Mercedes aerodyne...No problem. If you can get parts, I can fix it. Count on it, chombatta." 
+:END:
+
+** CUSTOM
+* MINOR
+** BASE
+** CUSTOM

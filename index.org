@@ -1,0 +1,6 @@
+* Cyberpunk Personal WIKI
+  - [[file:factions.org][FACTIONS]]
+  - [[file:characters.org][CHARACTERS]]
+  - [[file:stats.org][STATS]]
+  - [[file:streetslang.org][STREETSLANG]]
+  - [[file:skill_checks.org][SKILL CHECKS]] 
