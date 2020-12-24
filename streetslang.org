@@ -1,3 +1,4 @@
+[[file:index.org][Return to Home]]
 * STREETSLANG
 ** AI: Artificial Intelligence
    - A computer with full self awareness.

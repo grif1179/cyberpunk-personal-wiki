@@ -4,8 +4,13 @@
     *Players_Score = (1D10 + BASE_SKILL + ONE_SKILL_THAT_APPLIES)*
   - To succeed a players score must be greater than or equal
     the Task Difficulty.
+    - Task_Difficulty = (BASE_DIFFICULTY + DIFFICULTY_MOD1 + DIFFICULTY_MOD2 + ... DIFFICULTY_MODN)
   - Players can add luck to the check only if specified before
     the 1D10 roll.
+  - If a player rolls a 1 they have an automatic fail
+    and must roll on the fumble table.
+  - If a player rolls a 10 they have a critical success
+    and they roll another 1D10 to add to there roll.
     
 ** Task Difficulties
 | Difficulty        | Check |
@@ -23,6 +28,9 @@
      and 1D10 roll. On an equal or higher roll,
      the defending player wins.
      
+** Fumble Table
+  - [[file:pics/fumble_table.png][Fumble Table]]
+  
 ** Difficulty Modifiers
    - Difficulty Modifiers are values which are added to the difficulty of a task,
      reflecting adverse conditions or extra problems. Modifiers work

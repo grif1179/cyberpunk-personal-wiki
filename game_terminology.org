@@ -1,0 +1,16 @@
+[[file:index.org][Return to Home]]
+* Game Terminology
+  - Improvement Points (IP)
+  - Intelligence (INT)
+  - Reflexes (REF)
+  - Cool (CL)
+  - Technical Ability (TECH)
+  - Luck (LK)
+  - Attractiveness (ATT)
+  - Movement Allowance (MA)
+  - Empathy (EM)
+  - Body Type (BT)
+  - Body Type Modifier (BTM)
+  - Encumberance Value (EV)
+  - Stopping Power (SP)
+    

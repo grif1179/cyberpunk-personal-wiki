@@ -180,3 +180,43 @@
        you would take the full ten. But with a Very
        Strong Body Type, you'd only take (10-4=6)
        six points of damage.
+
+
+* Reputation
+  - Reputation is a measure of things your character
+    may do so well (or badly) that he has actually become
+    well known for them. A reputation for something is always
+    established by a character's actions, and is then awarded
+    by the Referee. Whenever a character encounters new people in new
+    situations , his reputation may actually influence how they
+    react to him. Sometimes this can be very good.
+    Other times, it can be very bad.
+** Facedowns
+   - When making a facedown, both participants will roll:
+     *1D1O + COOL + REPUTATION*
+
+     Note: If one of the opponents has a repu-
+           tation for cowardice, his value will be
+           treated as a negative number.
+           In a facedown, the loser has the option of
+           backing down or making any subsequent
+           attacks against this particular opponent
+           at a -3 (due to fear) until he has success-
+           fully defeated that opponent once. On a
+           tied roll, both parties are unsure and no
+           penalties will apply.
+
+** Reputation Table
+| Level | Who Knows About You                                          |
+|-------|--------------------------------------------------------------|
+|     1 | Anyone who was there at the time knows.                      |
+|     2 | Stories have gotten around to immediate friends.             |
+|     3 | All your co-workers and casual acquaintances know.           |
+|     4 | Stories are all over the local area.                         |
+|     5 | Your name is recognized by others beyond your local area.    |
+|     6 | You are known on sight by others beyond your local area.     |
+|     7 | A news story or two has been written about your exploits.    |
+|     8 | Your exploits regularly make the headlines and screamsheets. |
+|     9 | Your exploits always make the screamsheets and TV.           |
+|    10 | You're known worldwide.                                      |
+

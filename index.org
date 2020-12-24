@@ -2,5 +2,7 @@
   - [[file:factions.org][FACTIONS]]
   - [[file:characters.org][CHARACTERS]]
   - [[file:stats.org][STATS]]
+  - [[file:skill_checks.org][SKILL CHECKS]]
+  - [[file:gear.org][GEAR]] 
   - [[file:streetslang.org][STREETSLANG]]
-  - [[file:skill_checks.org][SKILL CHECKS]] 
+  - [[file:game_terminology.org][GAME TERMINOLOGY]] 

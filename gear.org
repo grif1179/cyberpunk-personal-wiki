@@ -1,0 +1,59 @@
+[[file:index.org][Return to Home]]
+* GEAR
+** Weapons
+*** Weapon Codes
+    - A weapon profile is defined as:
+ Name | Type | Accuracy | Concealability | Availability |
+     Damage/Ammunition | Number of Shots | Rate of Fire | Reliability
+**** Accuracy
+     - This is how good the weapon
+       really is. Weapons are rated from -3 to +3
+       on accuracy, with 0 being an average level
+       of accuracy.
+**** Concealability
+     - How easily they can be
+       hidden until needed (an important factor
+       in combatweapons). A smart combat gunner 
+       doesn't want to walk into a bar with a
+       shotgun protruding from underneath his
+       coat-it's going to cause trouble. He also
+       needs to be able to carry "holdouts" in the
+       event of capture or disarmament.
+      
+ | Pocket, Pants Leg or Sleeve  | (P) |
+ | Jacket, Coat or Shoulder Rig | (J) |
+ | Long Coat                    | (L) |
+ | Can't be Hidden              | (N) |
+
+**** Availability
+     - This is how difficult the weapon
+       is to find on the open market.
+      
+ | Excellent | (E)  | Can be found almost anywhere.                                      |
+ | Common    | (C)  | Can be found in most sports & gun stores or on the Street.         |
+ | Poor      | (PI) | Specialty weapons/black market/stolen military.                    |
+ | Rare      | (R)  | Stolen/one of a kind/special military issue/may be highly illegal. |
+
+**** Damage/Ammunition
+     - Each weapon is rated as to the type of ammunition it
+       carries, and the damage of that ammunition (in numbers of dice thrown).
+
+**** Number of Shots
+     - This is how many shots
+       are held in the standard clip, magazine or
+       quiver for the weapon type.
+
+**** Rate of Fire
+     - This is how many shots the
+       weapon can fire in a single combat round
+       (3.2 seconds).
+
+**** Reliability
+     - This is how reliable the weapon
+       is in combat-its chance of jamming while
+       on autofire, etc.
+
+ | Very Reliable | (VR) |
+ | Standard      | (ST) |
+ | Unreliable    | (UR) |
+
