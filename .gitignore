@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+*.log
+tmp/
+key_boi.py
+soulkiller
+__pycache__
