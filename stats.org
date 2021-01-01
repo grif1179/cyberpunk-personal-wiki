@@ -4,8 +4,8 @@
     - This is a measure of your problem solving
       ability; figuring out problems, noticing
       things, remembering information. Almost
-      every character type will need a high Intel-
-      ligence, with Netrunners and Corporates
+      every character type will need a high Intelligence,
+      with Netrunners and Corporates
       requiring the highest of all.
       
 ** Reflexes (REF)
@@ -182,7 +182,7 @@
        six points of damage.
 
 
-* Reputation
+* REPUTATION
   - Reputation is a measure of things your character
     may do so well (or badly) that he has actually become
     well known for them. A reputation for something is always
