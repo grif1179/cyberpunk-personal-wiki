@@ -1,0 +1,8 @@
+[[file:index.org][Return to Home]]
+* House Rules
+- Staged Penetration is NOT used.
+- Starting characters cannot put more that 7 into
+  any single skill.
+- When a 1 is rolled roll another 1D10 and
+  subtract that from the total. If that total becomes
+  a value <=0 then roll on Fumble Table.

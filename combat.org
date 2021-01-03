@@ -1,0 +1,220 @@
+[[file:index.org][Return to Home]]
+* Combat
+** Rounds
+- Rounds are 3 seconds each
+- Order is determined by INITIATIVE = (1D10) + REF [+ Combat Sense if Solo]
+  + You can elect to act later in the round
+
+** Fast Draw
+- Add +3 to INITIATIVE
+- Subtract -3 to HIT
+
+** Actions
+*** Possible Actions:
+- Move up to your full Movement
+- Attack
+  + Up to your weapon's max Rate of Fire(ROF), or make a melee attack.
+- Dodge
+  + Making melee hits harder to land.
+- Parry
+  + Deflecting damage onto something else
+- Escape a hold or trap
+- Aim
+  + Gain +1 to hit for every consecutive turn of aiming up to 3 rounds.
+- Reload or change weapons
+- Mount or dismount a vehicle
+- Repair or give Medical Aid
+- Perform a non-combat task
+*** Options
+- More than one Action
+  + Gain a -3 to each successive action.
+- Two Weapon Attacks
+  + Gain a -3 penalty on BOTH weapons.
+- Ambush
+  + Gain a +5 to attack for 1 round.
+
+** Ranged Weapon Attack
+- (1D10 + REF + WEAPON_SKILL) >= HIT_NUMBER
+  + Ranged Hit Number Chart:
+    | Point Blank (<1/4 Range) | 10 |
+    | Close       (1/4 Range)  | 15 |
+    | Medium      (1/2 Range)  | 20 |
+    | Long        (1x Range)   | 25 |
+    | Extreme     (2x Range)   | 30 |
+
+*** Automatic Weapons
+- If you roll a 1 on an automatic weapon roll (1D10)
+  on the reliability table to see if the gun jams.
+  | Very Reliable | 3 or lower |
+  | Standard      | 5 or lower |
+  | Unreliable    | 8 or lower |
+
+  + Roll (1D6) to see the number of rounds it will
+    take to unjam.
+
+**** Firing Modes:
+***** Three Round Burst
+- Get a +3 to hit (Close & Medium Only)
+- If you hit roll (1D6/2) to see how many rounds hit
+***** Full Auto
+- For every point of success over the required hit roll
+  one round hits the target up to the maximum ROF for the weapon.
+  + (#_OF_HITS) = (#_POINTS) > (TO_HIT_NUMBER)
+  + At Close range for every 10 rounds fired add +1 to your ATK total.
+  + At ranges beyond Close subtract -10 from ATK total.
+***** Suppressive Fire
+- Create a firing zone that makes targets have to
+  make a save or be shot with (1D6) rounds.
+- (1D10 + REF + ATHLETICS) >= (#_OF_ROUNDS / WIDTH_OF_FIRE_ZONE)
+- Minimum width of fire zone is 2m.
+
+** Weapons
+*** Shotgun Rules
+- Shotguns have a spread that widens as
+  you fire at a target farther away.
+| Range    | Size of Pattern | Damage   |
+| Close/PB | 1m              | full dmg |
+| Medium   | 2m              | 3/4 dmg  |
+| Long     | 3m              | 1/2 dmg  |
+
+**** Auto-shotguns
+- Shots must be placed 1m of each other.
+- Each attack has a -2 penalty for every
+  additional shot past the first.
+
+*** Grenades
+- Can be thrown up to 10x the characters Body Type(BT)
+- Can be launched up to 300m
+**** Gas Grenades
+***** Rules
+- Gas differs from other grenade effects
+  in that it moves around. To use gas, first
+  determine the point of impact. All targets
+  within 3 meters are immediately affected.
+- On the next turn, determine which way the
+  wind is blowing by rolling again on the
+  Area Effect Table. Place the new area of
+  effect. Any target within the first and second
+  areas of effect must save vs the gas, as
+  well as any targets in a straight line the
+  width of the gas cloud between the two
+  points.
+- On the third turn, the gas dissipates.
+***** Effects
+- Gas grenades have either fatal or incapacitating
+  effects. To avoid the effects, the
+  character must make a save; armor doesn't
+  help (although filters or gas masks Will). On
+  a successful Save, he will take half effects (a
+  -2 REF reduced to -1, 4D6 reduced to 2, etc.).
+
+| Type          | Effect                                 | Damage |
+| Nausea        | Illness                                | -4 REF |
+| Teargas       | Tearing                                | -2 REF |
+| Sleep Drugs   | Sleep (Half effect is -2 to all stats) | None   |
+| Biotoxin 1    | Death                                  | 4D6    |
+| Biototoxin II | Death                                  | 8D6    |
+| Nerve Gas     | Death                                  | 8D10   |
+
+*** RPGs
+- (6D10) DMG
+- Can't be fired inside without penalty.
+
+** Armor
+- Calculate the total SP of your armor + cover, using
+  the Proportional Armor rule, to determine how much
+  DMG your armor blocks.
+  + PROPORTIONAL ARMOR RULE:
+    When layering armor, or wearing armor behind an obstacle or cover,
+    subtract the smaller SP from the larger one. Find the difference on
+    the table below and add it to the larger SP.
+    | Diff in SPs | Bonus Number |
+    |         0-4 |           +5 |
+    |         5-8 |           +4 |
+    |        9-14 |           +3 |
+    |       15-20 |           +2 |
+    |       21-26 |           +1 |
+    |         27+ |            0 |
+
+- Total the EVs of all armors, using the Maximum Armor Rule,
+  to find out what you must subtract from your REF.
+  + MAXIMUM ARMOR RULE:
+    Now, in addition to EV, only a maximum
+    of 3 layers of Armor can be worn at any one time;
+    no more than one of these layers can
+    be Hard Armor (see Hard/Soft Armors
+    Table). The 2nd layer has an extra EV
+    penalty of -1; the 3rd layer, an
+    additional penalty of -2. Subdermal
+    Armor and Bodyplating cyberware
+    options are considered to be armor
+    layers; Skinweave is considered a layer,
+    but receives no penalty.
+    HARD/SOFT ARMOR TABLE
+
+*** Armor Piercing Rounds
+  + SP of armor is halved and DMG of gun is halved.
+
+*** Common Cover
+  | Sheetrock Wall        |  5 |
+  | Stone Wall            | 30 |
+  | Large Tree            | 30 |
+  | Brick Wall            | 25 |
+  | Concrete Block Wall   | 10 |
+  | Wood Door             |  5 |
+  | Heavy Wood Door       | 15 |
+  | Steel Door            | 20 |
+  | Concrete Utility Pole | 35 |
+  | Data Term             | 25 |
+  | Car                   | 10 |
+  | Armored Car Body      | 40 |
+  | AV-4 Body             | 40 |
+  | Engine Block          | 35 |
+  | Mailbox               | 25 |
+  | Hydrant               | 35 |
+  | Curb                  | 25 |
+
+** Taking Damage
+*** Body Type Modifier
+  + Reduces DMG based on BT, can't reduce to lower than 1.
+    | Very Weak   | -0 |
+    | Weak        | -1 |
+    | Average     | -2 |
+    | Strong      | -3 |
+    | Very Strong | -4 |
+    | Superhuman* | -5 |
+
+*** Wound effects (House Rule):
+  + LIGHT/SERIOUS -> Nothing
+  + CRITICAL -> -2 to REF
+  + MORTAL -> REF/INT/CL reduced by 1/2
+
+*** Head Hits do 2xDMG
+
+*** If 8 or more DMG is done to a limb it is destroyed.
+
+*** Stun/Shock Save
+  + When hit you must roll a (1D10) < (BT-PENALTY)
+    - If you fail the roll you lose you next turn
+    - Penalty Table (House Rule)
+      | Light    |  0 |
+      | Serious  |  0 |
+      | Critical | -1 |
+      | Mortal   | -2 |
+      | Mortal 1 | -3 |
+      | Mortal 2 | -4 |
+      | Mortal 3 | -5 |
+      | Mortal 4 | -6 |
+      | Mortal 5 | -7 |
+      | Mortal 6 | -8 |
+
+*** Death Save
+  + When in a Mortal state roll (1D10) < (BT-MORTAL_RANK)
+  + If you fail you are dead
+  + Stabilization
+    - You keep making Death Saves until stabilized.
+    - To stabilize: (1D10 + TECH + MED_SKILL) >= TOTAL_DMG
+      + Advantages to Stabilization:
+        | Full Hospital         | +5 |
+        | Trauma Team Ambulance | +3 |
+        | Life Suspension Tank  | +3 |
