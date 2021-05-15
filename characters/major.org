@@ -1,0 +1,623 @@
+[[file:~/Insync/grif1179@gmail.com/Google Drive/personal/cyberpunk/cyberpunk-wiki/index.org][Return to Home]] | [[file:~/Insync/grif1179@gmail.com/Google Drive/personal/cyberpunk/cyberpunk-wiki/characters.org][Back to Characters]]
+* BASE
+** Livewire
+   - Class: Netrunner
+   - A Netrunner that used to work for the solo them the Devil's Horde,
+     until the team disbanded in 2011 due to a mishap in an operation
+     that killed everyone, but Livewire and Lucifer.
+     - He now spends most of his time working at Short Circuit selling
+       programs and jobs.
+     
+** The Boss
+- Class: Fixer
+- The local "Capo di tutti Cappi"is an up and coming fixer-turned-Mob corporate
+  manager, who has made a name for himself the length of the Coast.
+  Bruce Skiv (also known as "The Boss") can be found either at Balboa's, at
+  the Chrome Ring, or at Beppo's. Every morning starts with a shave at Cuido's, of
+  course.
+
+:CONFIDENTIAL:
+bdfa527dd4158b975c9118dc72f00dae9b650d4f4327ae7723e3c5470e4874b9766bc7aeca207020d6ba15cf76870c601fcfa87957876de68967baae6e4d94f61f532808ae
+bdfa4878c979fee846e314f426a14ce7ab413a624320b27b40fce3785a1628b56106b3b5ea613c63848f60b9118770284ae1882d09c42384f30fc3dd2c0ed7d8724e694dcf7c5ad549f02a
+b0fa3b13a015929b5ce30eea37ab48e8a6436e4c0d7ef57f2dc3e8220e4168b51a4ff29efd723b649f8660b937
+bdfa586ac270e0f5399714d901f201dda74928734e45e33414dfa62b401c31e73746e388f7632d7f859932a01dd7542551a28c3d09df22d6ea03b0ef3605d1c53b707c56c5770e860ab9456d59741917bafa
+:END:
+
+** Kerry Eurodyne
+    - Class: Rockerboy
+    - Wiki Link: https://cyberpunk.fandom.com/wiki/Kerry_Eurodyne
+:BIO:
+Kerry became famous by being vocals and lead/rhythm guitar for Samurai.
+He shared his friend's, Johnny Silverhand, view of changing the world through music,
+but at some point wanted to bring his own message to the people. Ever since he and
+superstar Johnny Silverhand parted ways, after the disbanding of Samurai,
+he became a solo artist. Later he was also extremely successful as a solo artist and
+dealt with a lot of injustice and terrible events in world affairs in his texts,
+which his audience - much to their concern - did not always understand correctly.
+He's withstood the test of time. His albums have gone platinum.
+His broken guitars have been auctioned for thousands of Eurodollars.
+And his singing voice is recognized worldwide.
+:END:
+** Morgan Blackhand
+    - Class: Solo
+    - Link: https://cyberpunk.fandom.com/wiki/Morgan_Blackhand
+:BIO:
+Morgan Blackhand is a pragmatic Solo with an anodized black-chrome cyberlimb arm.
+Generally considered to be a "Solo's Solo", with years of experience and ops under his belt.
+Rated as the number one Solo professional in the business by the Solo of Fortune Annual 2020 Awards in the US.
+
+Morgan Blackhand is defined by the fact that he is a pragmatist.
+Blackhand survives because he is street-smart and is constantly looking out for his own best interest.
+His reputation as a top Solo is partly due to the fact that he is able to capture targets alive,
+rather than simply killing them. He is also a skilled Techie, as not to have to rely on others to
+repair his tech, and has some training in martial arts.
+
+Morgan's handling of incidents, like the attempted kidnapping of Kerry Eurodyne, show the touch of the mastery.
+It is interesting to note that all five of the kidnappers were captured by Morgan (alone),
+and turned over to Federal Authorities. They were bruised, battered and beaten, but alive.
+Only a master like Blackhand can eliminate a threat and embarrass the group's sponsors.
+
+Morgan goes for the highest bidder, he has no agenda and no aspirations to be anything more than he is.
+Instead he only takes the jobs given to him and accomplishes them however he sees fit.
+:END:
+** Sgt. Max Hammerman
+    - Class: Cop
+:BIO:
+Max Hammerman is a sergeant for the Night City Police Department in the Cyberpunk 2020 setting.
+Noted to have specifically worked with one of the departments Cybersquads.
+
+"Drop it, punk. I don't wanna hear your life story, and I don't care what Society did to you.
+I just wanna see that gun hit the floor. Now... Before I give you an extra nostril.."
+:END:
+** Phil "Nacho" Hernandez
+    - Class: Fixer
+:BIO:
+Phil Hernandez is a fixer mentioned in the Cyberpunk 2020 Core Rulebook.[1]
+Quotes
+
+"Don't give me this 'Robin Hood' Stuff. I'm doin' a job, no more.
+I give people what they want, an' they pay me out.
+
+Okay, so maybe I even a few scores here and there, but that's good for Business.
+You make a friend- they'll take you in when the Street's too hot,
+and they'll pass you a few bits of data when you call in the markers. But that's business.
+
+I got a slogan... 'How much you pay me?'"
+:END:
+** Nomad Santiago
+    - Class: Nomad
+:BIO:
+Santiago is a Nomad who runs with the Aldecaldo Pack;
+displaced farmers thrown off their land by the Corporations.
+
+Santiago is a simple guy-- he likes girls, guns and fast cyberbikes.
+He teams with Rogue mostly because she's the one girl he hasn't been able to score with yet.
+
+-- Quotes --
+
+"Guns. Guns and cyberbikes. That's how we hold the line. We don't have any
+home except the Caravan. We don't have any rights except what we take.
+We get run out of town by the cops; we get raided by the roadwarrior packs,
+and we survive because we've got guns and bikes...
+
+There's kids, old men and women- families here.
+This ain't no boostergang.
+These people are my family."
+:END:
+
+** Spider Murphy
+    - Class: Netrunner
+    - Link:
+:BIO:
+"You guys who live in Realspace; you move so slow. Me I like Netspace. It moves fast. You don't get old,
+you don't get slow and sloppy. You just leave the meat behind and go screamin'.
+
+First system I ever hit, I think they had some weeflerunner playin' Sysop for them.
+I burned in, and jolted the guy with a borrowed Hellbolt, and did the major plunder
+action all over the Data Fortress.
+
+Somewhere out there is a guy with half his forebrain burned out.
+I wonder if they ever found the body. I wonder if they'll find mine the same way..."
+
+-Spider Murphy, Cyberpunk 2020 Core Rulebook
+
+Alternate Timeline:
+
+In Firestorm: Shockwave Spider Murphy recovered Alt, marked her personality file and threw her
+somewhere on the net to be retrieved later. She also captured Kei Arasaka in his escape submarine
+and pressured him into committing "seppuku" by running the Soulkiller 3.0 on himself; he then did so.
+:END:
+
+** Lyle McClellan
+    - Class: Medias
+:BIO:
+Lyle McClellan is a media for network 54.
+
+"Okay, so it's dangerous. Look, I'll tell you something.
+When I was a kid, I use to watch those reporters on the TV news.
+They wore those chill trenchcoats and were always broadcasting from some exotic place like
+Mozambique or Saigon. They went right into the Central American warzones with the cybergrunts,
+and they got the story even when the shooting was maximally fierce.
+
+That's the part I like; the danger."
+:END:
+
+** Mister Ice
+    - Class: Techie
+:BIO:
+"So you want me to build a delay switch into the thing? And you don't care about the explosion radius?
+
+No problem. At least you got a simple job. Last guy in here,
+he wanted me to build him a cyber hand that had a built-in ...aw, frack, you don't wanna know.
+People want the weirdest stuff these days...
+
+I hear with the new cyberwear they're coming up with in Chiba,
+you're gonna be able to cram your body with more options than a frackin'
+Mercedes aerodyne...No problem. If you can get parts, I can fix it. Count on it, chombatta."
+:END:
+
+** Mahan Jones
+- Leader of Harbor Police
+- His influence has made the harbor police
+  known as being incorruptible.
+- City Hall wants him replaced
+- He considers the NCPD irredeemably corrupt.
+*** Mahan Jones
+- Class: Cop
+- Age: 40
+- Visual Description: Looks like if Tom Selleck stayed fit
+                      in his older age and had a beard paired
+                      with his excellent mustache.
+:CONFIDENTIAL:
+baf03119a066e6fa289057
+ecfa527dd415ce9b2e861bba2ee875cb8c686e7b4352cd182c8cf62b6f2d10c77656b3b6cd43032c8ad60dcd1ddb150e70c6b0791c8b08e996039fae0a34fa932e23447ae5490e895a90694f7a351752c7b1a3c34251fd26fb571bd4ab
+ecfa3b13b715ce9b5ce368ba2ee801aeef186e7b4331a277598cf62b0e5964a27656b3dab820712c8ad660ba1ddb156c1fa2d1791c8b6d84f3039fae78508c932e23281f842d0e895ae4106249351752b4d0d5be4251fd4482291bd4ab
+9a
+baf03119a074c0d613b157
+ecfa575ce354c6d213ad7de6728044efab0066364a31fe7734c3f87841596ca77b1ebadae4201a22d6b732e11d8f00651ffec9154e8b0cd6ab03cbb87141c893002d2873c17e0edd4df118200e694b3ebad0b9e3050df55d822a1288ddbd
+ecfa5a41ed5ac09b2f937de672e801aeef006e275331fe77408caa2b0e5964b5760aa3dae420682cd6d660ac1d87157c1ffec979408b6d84e603c3ae6841c8937223281f84390ed55afc00390e694b52b4d0d5a6420dfd448f3a0b88ddbd
+9a
+baf03119a066c6da08b62e90
+ecfa585cee51dbcf15ac33ba2ee86dc788681a274331a22b40ffcf59673611c6760aefdadb520158bfb501c01ddb150170d0bd182c8b7d84ba03aec10a35f5ff72322843ae
+ecfa4847f55b929b5ce37dba2ee811aeef006e274331a22b4081bb2b0e5964b5760aefdab532682cd6d660ac1ddb15610ca2c979408b6d84ba03ceba7841949372232843ae
+ecfa4847e141d79b5ce37dba2ee87ad3947d155a384ca22b40f7d750732219ce0b0aefdac35d1351adab1bd11ddb151762d9b4023df01084ba03b8d3033cefee095e2843ae
+ecfa3b13a015929b5ce37dba2ee801aeef006e274331a22b408caa2b0e5964b5760aefdab820682cd6d660ac1ddb156c1fa2c979408b6d84ba03c3ae7841949372232843ae
+ecfa585cee51dbcf15ac33ba2ee86cc19d740f4b4323a22b40e1c5597a3808b5650aefdad54f1a58b7ba60b81ddb150170d0bd182c8b7884ba03aec10a35f5ff72352843ae
+ecfa4847f55b929b5ce37dba2ee80cbbef006e274331a22b4081bc2b0e5964b5760aefdab537682cd6d660ac1ddb156107a2c979408b6d84ba03ceb77841949372232843ae
+ecfa4847e141d79b5ce37dba2ee87ad3947d155a384ca22b40f7d750732219ce0b0aefdac35d1351adab1bd11ddb151762d9b4023df01084ba03b8d3033cefee095e2843ae
+9a
+baf03119a066d9d210af2e90
+bdfa4863c576fbfa30e31cd81b8468da9608673d69
+ecfa5a67d467929b5ce37dba72e801aeef006e7b4331a22b408faa770e3b0bd10f0aefdab820342cd5d63cac7ee87a0010d5a0152c8b6dd8e603c3f2784294cf7246456fe54d66ac5aa000290e6961
+ecfa4c52f251c0d41ea67dbc729b55f7a3456e7b4325a22b408faa770e5964b5760aefdab820342cd5d63cac6ed347295af69e3013ce6dd8e61ac3f2784294cf7223281f84390ed55aa000290e6961
+9a
+ecfa527dd415929b5ce37dba72e801aeef5c6e27436da27440d0aa596b3f64b5760ab3dae420682c8ad663ac418761097ccac925408b6dd8cc
+ecfa5a44e147d7d519b02eba72e801aeef5c6e35436da27440d0aa434f1720f22344b3dae4207d2c8ad663ac4187156c1fa2c925408b6dd8cc
+ecfa5a57ed5cdcd20fb72ffb26a14ee0ef5c6e30436da27740d0aa59471f28f0760ab3dae4207c2c8ad660ac4187156c1fa2c925408b6dd8cc
+ecfa3b13a015929b5ce37dba72e801aeef5c6e27436da27740d0aa495c1833f93f44f4dae4207b2c8ad660ac4187156c1fa2c925408b6dd8cc
+ecfa3b13a015929b5ce37dba72e801aeef5c6e27436da27740d0aa584f1028fc384db3dae4207c2c8ad660ac4187156c1fa2c925408b6dd8cc
+ecfa3b13a015929b5ce37dba72e801aeef5c6e27436da27740d0aa495c1833f93f44f4dae4207b2c8ad660ac4187156c1fa2c925408b6dd8cc
+9a
+baf03119a076cbd919b133ff26a142fdc5
+9a
+ecfa4f4af050929b5ce37de6728c44fdac5227771778ed3940d080
+ecfa584ae250c0de05a67de672844ef9a349296f1731a27740d080
+ecfa3b13a015929b5ce37de672ab40e3aa522f274331a27740d080
+9a
+baf03119a062d7da0cac33e958
+ecfa5552ed50929b5ce37dba72e801aeef006e274331a277408caa2b0e5938b50253e39fb87c685bb7d63cac7ec85b6c43a2ad34078b6d84e603c3ae7841c893016b674bd73952d5289366290e694b20f19cdba61e0d8f05c17d5e88ddbd
+ecfa585cec4192fe12a532e831ad4ceba1546e365331d13e04c9eb79435938b5060ab3dab87c6827c7d63cac7787156c43a2db1d56807e8cf7138ee37141c8937223280e903952d548fc00290e694b24c6d0d5a61e0de854c23a1b88ddbd
+ecfa585cec4192f651f265ba13bb52efba4c3a273178e43b058caa2b0e5938b50463d5dab87c6827c7d63cac7387156c43a2dc1d5683788af3158ee37141c8937223280c913952d549f313390e694b24c6d0d5a61e0de9549f771b88ddbd
+9a
+:END:
+
+* CUSTOM
+** Doctor John
+- Connection: NA
+- class: Medtechie
+- Age: 30
+*** Style
+- Clothes: Jumpsuit
+- Hair: Shaven
+- Affectation: Voodoo Boys Brand (Difficult to see)
+- Ethnicity: African
+- Lang: English, Bantu
+*** Family Background
+- Gang Family
+- Both parents are alive
+- Family is in danger from the voodoo boys
+- Spent childhood in Corp Suburbia
+- Has a brother and sister
+*** Motivations
+- Traits: Intellectual & Detached
+- Valued Person: Family
+- Value Most: Vengeance
+- Feel About People: I like almost everyone
+- Valued Possession: A recording
+*** Life Events
+:CONFIDENTIAL:
+bdfa2a05a915f4d409ad39ba33e855ebae432662113eef320ed8e57924
+bdfa2a0ba915ffde08e33be83bad4feaef5426750c64e53f40cfe56643162ab53f44e79fea653b78fc
+bdfa2901a915f4da10b038ba13ab42fbbc413a6e0c7fa2380e8cff654b0d2cfc354bffdae872296f829f23e937
+bdfa2907a915fada0cb324ba1ea757ebef6128610278f05d
+bdfa2905a915f4d415af38fe72a901fea34120270c77a2321881e664581c36b52245b38feb656864978424fb5cd5506c76a28a2b05ca39c1a229
+b0fa3b13a015c6d45ca131fb31a34cefa64c6e77067ef23b058280
+bdfa2803a915f4d212a77dff2ab844fca64d2b691770ee7721e5aa64405920f0374eb398f764312c999060ed1dc45a3e4f88
+b0fa3b13a015c6d31db77df233bb01e9a6562b694368ed2240cde9684b0a37b52245b38eea612c69d68525ef4fc24146
+b0fa3b13a015d1c21ea62ff437bc48edef4920610c63ef3614c5e5650073
+:END:
+
+** Deke Anderson (Big Papa)
+- Connection: Friend of Cadillac
+- Class: Solo
+- Age: ?
+- BIO:
+  + Woke up in a pool of blood next to
+    three bodies one having MetalGear armor.
+  + Found out later he awoke somewhere on the
+    North Interchange(I-928).
+  + Despite his combat talents he doesn't like
+    to start fights.
+  + Started working as a Solo, but is really bad at
+    talking with people. This led to situations
+    escalating often since he couldn't intimidate
+    people out of doing violent activity.
+  + This is why he befriended Cadillac to do all the
+    people talking and if things got hot he could do
+    the people shooting.
+    
+** SoundByte
+- class: Medias
+- Age: 19
+*** Style
+ - Clothes: Cammos
+ - Hair: Dreadlocks
+ - Affectation: Ritual Scar
+ - Ethnicity: African American
+ - Lang: English
+
+*** Family Background
+- Rank: Pirate Fleet
+- Parents: Grew up on the streets and never had parents
+- Family Status: 
+- Childhood: 
+- Siblings: 
+
+*** Life Events
+- 16) Gained a connection in the police department
+- 17) Has a 10,000eb debt from the Barrow Family
+      since her parents left Night City without completing
+      a job.
+- 18) Combat Teacher (Big Papa)
+
+
+* Moses Related Characters
+** Dynamo
+:CONFIDENTIAL:
+bdfa597acf0fb8
+b0fa3013d75ac0d00fe33bf520e86efcad493a660f31c33e128ceb654a592de6767cc3daf7666860979824ac5cc4443956f1802d09c4238acc
+b0fa3013b515cbde1db12eba33af4eae824f3d621031f12301cee86e4a592cfc3b0afa94b8742069d69021ef58893f
+b0fa3b13ad15f0ce08e329f23bbb01e3aa4120734379e7770cc3e5604b1d64e1395ff492fd72686598d62de958d35c2258f1c93105c73dcda844c3e6310c94d437772857cd6a0ea32afc50665d7c1f1bfb9edb8c
+b0fa3b13ad15fade5cad32ed72a040fdef572b6e1175ee2e40cae5654a5929f03b45e183b86f2e2c829e21f81dc35c3e4bfbc92a14d928c1b20391ef2c6b
+b0fa3b13a015c1cf1da13ff33caf01e6a64d6e6e0d31f63f058cec6a4d1c64f4250afb9fb8643a65809333ac54c9152456f1c91b2dfc60e9a5678ce03604d8df7247674ac3754f865a9d7624193b61
+9a
+bdfa785fe146c1815c8032e822c2
+bdfa5a54e50f928f49c9
+baf03119a066e6fa289057
+ecfa527dd415ce9b2e861bba2ee875cb8c686e7b4352cd182c8cf62b6f2d10c77656b3b6cd43032c8ad60dcd1ddb150e70c6b0791c8b08e996039fae0a34fa932e23447ae5490e895a90694f7a351752c7b1a3c34251fd26fb571bd4ab
+ecfa3b13b415ce9b4dec64ba2ee801aeef166e7b4331a277598cf62b0e5964ac7656b3dab8207f2c8ad671bc1ddb156c1fa2d1791c8b758bff039fae6d51d9932e23281f842b0e895afc003d1e351752b4d0d5be4251fd4482291bd4ab
+9a
+bdfa4976d00f928476
+bdfa5866d267f7f528e314ca68e81184
+bdfa5366cd74fcf2289a67ba6af82b
+9a
+baf03119a074c0d613b167ba1ea146e6bb000f750e7ef07733d9e37f0e3325f63d4fe7f0
+ecfa575ce354c6d213ad7de6728044efab0066364a31fe7734c3f87841596ca77b1ebadae4201a22d6b732e11d8f00651ffec9154e8b0cd6ab03cbb87141c893002d2873c17e0edd4df118200e694b3ebad0b9e3050df55d822a1288ddbd
+ecfa5a41ed5ac09b2f937de672e801aeef006e275331fe77408caa2b0e5964b5761ba7dae420682cd6d660ac1d8704781ffec979408b6d84e603c3bf6c41c8937223281f84390ed55afc00390e694b52b4d0d5a6420dfd448f3a0b88ddbd
+9a
+baf03119a066c6da08b62e90
+ecfa585cee51dbcf15ac33ba2ee86dc788681a274331a22b40ffcf59673611c6760aefdadb520158bfb501c01ddb150170d0bd182c8b7d84ba03aec10a35f5ff72322843ae
+ecfa4847f55b929b5ce37dba2ee811aeef006e274331a22b4081bb2b0e5964b5760aefdab532682cd6d660ac1ddb15610ca2c979408b6d84ba03ceba7841949372232843ae
+ecfa4847e141d79b5ce37dba2ee87ad3947d155a384ca22b40f7d750732219ce0b0aefdac35d1351adab1bd11ddb151762d9b4023df01084ba03b8d3033cefee095e2843ae
+ecfa3b13a015929b5ce37dba2ee801aeef006e274331a22b408caa2b0e5964b5760aefdab820682cd6d660ac1ddb156c1fa2c979408b6d84ba03c3ae7841949372232843ae
+ecfa585cee51dbcf15ac33ba2ee86cc19d740f4b4323a22b40e1c5597a3808b5650aefdad54f1a58b7ba60b81ddb150170d0bd182c8b7884ba03aec10a35f5ff72352843ae
+ecfa4847f55b929b5ce37dba2ee80cbbef006e274331a22b4081bc2b0e5964b5760aefdab537682cd6d660ac1ddb156107a2c979408b6d84ba03ceb77841949372232843ae
+ecfa4847e141d79b5ce37dba2ee87ad3947d155a384ca22b40f7d750732219ce0b0aefdac35d1351adab1bd11ddb151762d9b4023df01084ba03b8d3033cefee095e2843ae
+9a
+baf03119a066c6c210a657
+bdfa585fef41dade0ff97dd23baf49ae89413d6f0a7eec5d
+bdfa5352e947889b2fab32e826c2
+bdfa5a55e650d1cf1db734f53cf201ddac413c274b56eb2105c2aa69575909fa254fe0d392
+bdfa5e47e85bdbd815b724a072894fe9a34f63660e74f03e03cde401
+bdfa5752ee52889b39ad3af63bbb4984
+9a
+baf03119a073d3d615af24ba10a942e5a85221720d7588
+bdfa4952ee5e889b3ba233fd728e40e3a64c370d
+bdfa4b52f250dccf0ff97dc93da445aea94f3c270e7eec32198ce8720e142be13e4fe1dab042297f829732e814ad
+bdfa5d52ed5cdec25c9029fb26bd52b4ef662f6a0a7dfb7709c2fc64420f21f17643fddaf920246398916df858d5586c5ced872a10c23fc5a55ae9
+bdfa585be959d6d313ac39a072814faeae002a620070fb3e0ecba62b411727f0765fe389fb612469d69825e55acf57234dea863604a1
+bdfa485ae259dbd51bb067ba6dc2
+9a
+baf03119a078ddcf15b53cee3ba74ffdc5
+bdfa4f41e15cc6c846e310f53dac58a2ef522f740b31e339048ce26e4f1d37e12445fd9d92
+bdfa4d52ec40d7df5c9338e821a74fb4ef692a680f1b
+bdfa4d52ec40d79b31ac2eee68e878e1ba526e700c63e65d
+bdfa5d56e55992fa1eac28ee729844e1bf4c2b3d4350a23b05d8fe6e5c73
+bdfa4d52ec40d7df5c9332e921ad52fda64f203d4341e73810c0ef2b4f0b21b52344e788ed733c7b998434e44489150850ecce2d40cf28d4a34d87ae370f94d23c7a6751c113
+9a
+baf03119a079dbdd19e318ec37a655fdc5
+bdfa2a05a93cfada0cb324ba1ea757ebef6128610278f05d
+bdfa2a04a93cf4d212a77dfb72ab4ee3ad413a271774e33408c9f8250e3820f17601a2daec6f686d988f60fb58c6452351a29a3209c72184a951c3ec3d06dddd72622851c16e0e9615b142685a351819fd9c99a60359fd4f9d3431
+bdfa2a0ba93cfed41fa231ba30a74efdbb453c270470ec3040c0e3604b0a64ec395fbddac16f3d2c95972eac5ec659201ff799360e8b39cca34ec3e83713948272656949cb6b019815b2546100352e03e19983a61642fd22ce7752c4d8972bb3d229
+bdfa2a0aa93cf0de08b13ce333a41bae964f3b270263e77702c9e365495926f93749f897f969246992d84a
+bdfa2903a93ce0d411a233f937f201d7a05569750631f2250fcaef785d102bfb3746b388f176296085d84a
+bdfa2902a93ce1cf1db738ba02a74de7ac456e681131cf3e0cc5fe624f5925e7330afb8ff674216291d639e3488753234da2887903d924c9a3039ae12d41d9d22b23674d84744f8c5ab24f7d0e7d0a04f1d096e90f40b410db7f5f86ab
+bdfa2907a93cf7d519ae24a0728540e2aa003e661165ec32128ce5790e1a2bb82145e191fd72662cb59735ff589d151550f7c93315d83984a24a87e07f1594df3b686d1fc1784d9d5ab354614b674552d29590ea0b43ba17953a62c7d49768e0884618828432c0260678c9001ba3426fedf48b3e858df0d4a5a13d422634f3f5c93951bdc650badf3d535996
+bdfa290ba93cf7d519ae24a0728e44e3ae4c2b27067cf23b0fd5ef79005907f42359f6c0b8592779d69c35ff498751255becce2d40c724cfa30386ef3b0994dc266b6d4d8a3968901fb0496749665152cd9f80a60a4ca9018f6e53cdcc9920c49246558fcb248d5a434ec81004b9006ff786a624878be7dba6f2660c037ab2b0c1284fefc502b4db3d500496
+bdfa290aa93cfbd710ad38e921e84efcef412a630a72f63e0fc2aa684f0c37f0250aa2dae874685eb3b060c052d4466235
+bdfa2802a93cf4c915a633fe68e86cebbb003a6f117ef730088ce96443142bfb7643fd8efd722d7f82d84a
+bdfa2801a93cfed41fa231ba30a74efdaa526e60027fe5770cc5e16e5d593dfa2304b3a3f775686f979860ef5ccb596c4af2863740df25c1ab0385e12a41859334627e50d636439a14a848270e501a07fd86d5f20d0d9b05c27357d1819c32aff6
+bdfa2800a93cffda18a67dfb72b84ef9aa5228720f31e1380ec2ef685a592dfb765efb9fb84321788fd60ded44c8476b4ca2863f06c22ec1e829
+bdfa2807a93cf4c915a633fe68e860e0ef4f22634374ec320dd5a401
+bdfa2806a93cf7d519ae24a0728540e2aa003e621162ed3940dbe57945102af2764cfc88b8792779d8d603ed48d450761fc486300cce2984a70393e2390f94dc34237c57c139418112b9522e5d3b4b34f19599ef0c4aae5e8f4e53cdd89768e08846188f832283286353c2080ffd163c9fc39d229f8ae1d2b3e8272a0e37a0f5cb2b18aecd14fddf735212ebf47ea0b2fda707976b
+bdfa2804a93cf4c915a633fe68e86cebbb003a6f117ef730088ce96443142bfb7643fd8efd722d7f82d84a
+bdfa280aa93cfada0cb324ba1ea757ebef6128610278f05d
+bdfa2f03a93cf7d519ae24a0728e44e3ae4c2b27007ef0270fdeeb7f4b5921ed3349e68ef1762d22d6b521f94ec20f6c7ee18a2c13ce2984b24b86ae3715dcd620236759847a41821bae44604d704b1de6d086e90f48fd0bdb725eda81c765f38f4c56978077cb64474a894530bf0070a4c8893ed0d8d6dfa5ab270a062eb6b0de224de18335b3db3e4d50eff44ab7a8f7bc1187040356989d9241d00acea8a0176fc1fbc1
+9a
+baf03119a066d9d210af2e90
+bdfa4956f35ac7c91fa62ea072f91184
+ecfa5a67d467929b5ce37dba72e801aeef006e271f31a27740d0aa280e0564d01b7ad2aed059682cd6d660ac1d87156c43a2c9791ca1
+ecfa4b56f246ddd51daf7ddd20a74ee3a64e29271f31b36740d0aa280e0564dd2347f294b8502d7e959330f854c85b6c43a2da791ca1
+ecfa4c52f251c0d41ea67dbc729b55f7a3456e271f31a26240d0aa280e0564dc385ef688ee692d7bd6d660ac1d87156c43a2c9791ca1
+ecfa3b13a015929b5ce37dba72e801aeef006e271f31a27740d0aa280e0564d9334bf79fea73206586d660ac1d87156c43a2c9791ca1
+ecfa3b13a015929b5ce37dba72e801aeef006e271f31a27740d0aa280e0564c6334ee699ec692762d6d660ac1d87156c43a2d1791ca1
+ecfa3b13a015929b5ce37dba72e801aeef006e271f31a27740d0aa280e0564c63949fa9bf420682cd6d660ac1d87156c43a2da791ca1
+ecfa3b13a015929b5ce37dba72e801aeef006e271f31a27740d0aa280e0564c53358e08ff973216398d660ac1d87156c43a2d1791ca1
+ecfa3b13a015929b5ce37dba72e801aeef006e271f31a27740d0aa280e0564c53358f595ea6d682cd6d660ac1d87156c43a2c9791ca1
+9a
+ecfa527dd415929b5ce37dba72e801aeef006e7b4331a2771c8ca92b525916d0100ab3dab820342cd6d660f037
+ecfa5a50e35ac7d508aa33fd72e801aeef006e7b433ab1771c8ca92b525900e73f5cfa94ff20342cddc560f037
+ecfa5a44e147d7d519b02eb51ca755e7ac456e7b4331b7771c8ca92b52590cf4384ef48ff620342cddc560f037
+ecfa5e57f556d3cf15ac33ba72e801aeef006e7b433ab1771c8ca92b525909f03a4ff6dab820342cddc560f037
+ecfa4847ef56d99b31a22ff137bc01aeef006e7b4331b4771c8ca92b525964b5760ab3dab820342cd6d660f037
+9a
+baf03119a076cbd919b133ff26a142fdc5
+ecfa4f4af050929b5ce37dba72e801aeef0032272774f13412c5fa7f47162ab5760ab3dab820682cd6d660ac1d87156c1fa2c979408b6d84e603c3ae7841949372237435
+ecfa5552f354de9b3aaa31ee37ba52aeef0032273065ed27138cfe64561027b5314be09feb2c686a839b25ff1387027c1aa28c3f06ce2ed0af5586ae7841949372237435
+ecfa495af045d7c90fe37dba72e801aeef003227217ee62e40fbef6a5e162ab57e42f294fc736122d6c704ba169415647ed2d4120ec22bc1ef03c3ae7841949372237435
+ecfa4b5bef5bd79b2fb331f331ad01aeef0032272564ee3b40efef67420c28f4240af095f56d3d629f9521f854c85b6c17ee882b07ce6dc7af579aae370fd8ca7b237435
+ecfa585be945c5da0ea67dc93dab4aebbb003227227dee3817dfaa7e5e5930fa761ba3dafb68217c85d634e31dc5506c53ed883d05cf6384e603c3ae7841949372237435
+ecfa3b13a015929b5ce37dba72e801aeef0032272e74ee32058ca1380e5964b5760ab3dab820682cd6d660ac1d87156c1fa2c979408b6d84e603c3ae7841949372237435
+ecfa3b13a015929b5ce37dba72e801aeef0032272b70ec3307d9e42b054a64b5760ab3dab820682cd6d660ac1d87156c1fa2c979408b6d84e603c3ae7841949372237435
+ecfa3b13a015929b5ce37dba72e801aeef0032272763eb2109c2ed2b054a64b5760ab3dab820682cd6d660ac1d87156c1fa2c979408b6d84e603c3ae7841949372237435
+ecfa3b13a015929b5ce37dba72e801aeef0032272272e13815c2fe62401e64be650ab3dab820682cd6d660ac1d87156c1fa2c979408b6d84e603c3ae7841949372237435
+ecfa3b13a015929b5ce37dba72e801aeef0032272675f73401d8e36440596fa6760ab3dab820682cd6d660ac1d87156c1fa2c979408b6d84e603c3ae7841949372237435
+9a
+baf03119a062d7da0cac33e958
+ecfa5552ed50929b5ce37dba72e801aeef006e274331a2771c8cde725e1c64e9767dd2dae4200b6398d63cac79ca526c1fa2c979408b6dd8e6708be12c1294cf7251477984650ea71bb2476c0e6961
+ecfa5a78d218808b5c8e38fe3bbd4cae8e533d66167df6771c8cd842685964e9760aa3dae420062cd6d63cac08e3036c17b7c76c56826dd8e603c3ae6b5194cf72233b0f84650ec14aec4d290e6961
+9a
+:END:
+
+** Rosario
+- Class: Rockergal
+- BIO:
+  + Mentor for Moses and mother of Catalina.
+:CONFIDENTIAL:
+b0fa3013d047d7cd15ac28e93eb101efef502177167de32540fee568451c36f23f58ffdaf9722779989260c254c05d381fc1802d198747
+b0fa3b13e240c69b19ad32ef35a001eba15627750c7fef320ed8eb67470a30b5224fe188f772217f82d621ef49d415245ef1c93501c529c1a229
+b0fa3b13e850c09b13ad7dfb72bc44fcbd4f3c6e1065a22001d8e9630e152de6220af294fc202079988225e81dc54c6c6fe79d2b0fc825c1ab0de9
+b0fa3013d754dccf15ad3aba26a701feba546e730b78f1770cc5ec6e0e1b21fd3f44f7daf0653a2c909932ac55c2473f5aee8f53
+b0fa3b13e15bd69b14a62fba36a954e9a7542b754b52e32301c0e3654f5068b52542f6daeb6f2468d6bb2fff58d415234af6c92d0f8b39cca30384e12e04c6dd3f66664b8a13
+b0fa3b13ad15e1cb19a034fc3bab40e2a3596e730c31e33940cded6e400d64f63746ff9ffc206a4e849733ff1f87422450a2992b0fc624d7a347c3fa376b
+b0fa3b13a015d4d40ea434ec37e849ebbd002d750a7ceb3901c0aa7b4f0a30b53f4cb389f065686f99832ce81dc5472551e5c9140fd828d7e6578cae3008d99d58
+b0fa3013d35dd79b0baa31f672ac4eaeae4e37730b78ec3040d8e52b491c30b52443f7daf7666841998525ff13ad
+:END:
+
+** Catalina
+- Class: Rockergal
+- Bio:
+  + In love with Moses, but hasn't seen him for a year.
+  + She doesn't believe what the screamsheets are saying about him.
+  + While this loss of her true love is causing her great pain,
+    that pain is making her music resonate and she is becoming a
+    rising star.
+
+** Brass
+- BIO:
+:CONFIDENTIAL:
+b0fa3013c340c0c919ad29f62be848e0ef4326661176e7770fcaaa7f461c64dd3f4dfb9fea20036299812ce959c0506c7ee1982c09d824d0af4c8dae2813dbd42062651fcd770e8112b92a
+b0fa3b13c450c2da0eb730ff3cbc01e1a9000a620574ec24058280
+b0fa3013c153c6de0ee331ff33ba4fe7a1476e680531f63f058cd26a401820e0765ae195f2652b78d69f2eac49cf506c7ef08a360cc42adde6408afa2141dbd57250605eca7e4a8070
+b0fa3b13e85092d61da738ba3bbc01e6a6536e761674f12340d8e52b411b30f43f44b3a2f96e296883d621e259875e295af2c930148b22caaa5ac3e8371394c73a6602
+b0fa3b13d56692d615af34ee33ba58aebb4f6e721074ac5d
+b0fa3013c247d3c80fe331ff33ba4febab0021614349e33901c8ff2b4a0c36fc384db39bb863277a938434ac54c943294cf6803e01df24cba8038ce87815dcd67250605eca7e4a8070
+b0fa3b13e147d1d410ac3ae372ab48fab60e6e480d74a238068ce2625d590af02258e694f6653a7fdad621f81dd35d291ff68034058b2ec5aa4f86ea7829d5d039667a4c8813
+b0fa3b13e55bd1d409ad29ff20ad45aebb482b27067ff63e14d5a401
+b0fa3013c85092d212a532e83fad45aea7493d270f74e33309c2ed2b411f22fc354fe1d2dc612565979860d852c55c2216a2882d40df25c1e6578ae33d41dbd57277605a847d478619b3566c5c6c4578
+b0fa3013d45ddbc85caa33f326a140e2ef4f3e621170f63e0fc2aa7f41592bf7224bfa94b8582962979235ac4ac6466c4fe79b3f0fd920c1a229
+b0fa3b13c454dfd21dad7dce3daa48e0ef5726684375eb330e8bfe2b42102ff0765efb9fb8692c6997d62fea1dcc5c2053eb873e40df25c1e6408af8310dddd23c70241fd77624
+b0fa3b13f45dd79b3da728f626bb01f9aa522b271074ec2340d8e52b43183cfc3b5ffedaeb652b79849f34f51dd747254ced877901c52984b24b86ae3b09dddf36716d51ae
+b0fa3b13f254dcdf13ae31e372ba44eaa6533a750a73f72305c8aa7f415927fc2243f689b60a
+b0fa3013c247d3c80fe336ff22bc01faa7456e69027ce72440c3ec2b5a1121e6330af092f16c2c7e939860ff528741245ef6c9360ec82884ae46c3f9391294da3c236b57c56b499070
+b0fa3b13e85092d813b631fe72bc48ebef553e27027dee7714c4ef2b421637f0764ffd9eeb203c63d68228e91dff54225ee69c7910d922cea34097a052
+b0fa3013c153c6de0ee310f521ad52aeaa532d661374e67708c5f92b490b25e6260ad188f9733b2c9e9724ac70c846294ca28f2b01c628c0e6458cfc780094c737717a50d6705d8170
+b0fa3b13e141c6da1fa87df53ce871ebbb5221640b74ef796a
+b0fa3b13ad15e1cb19a034fc3bab40e2a3596e740268eb39078ce26e0e0b2df2314ff7daf9203c7e83952bac5bd259201fed8f7923e302eb8e7dd1ae2c0e94d62a736450c07c24
+b0fa3b13a015ddd51fa67dee3aad01eba14727690631f12301defe6e4a592ffc3a46fa94ff207a39d68625e34dcb506c5ef6c92d08ce47
+b0fa3b13a015e2de08b132f93aad4cae9d45286e0d74f02e40f8ef7943102af43a02d6cbbb336122fc
+:END:
+
+* Lex Related Characters
+:CONFIDENTIAL:
+baf03b78e141c1ce0eac7dc82ba72b
+bdfa585cee5bd7d808aa32f468e869fba15427690431c13604c5e6674f1a4e
+bdfa585fe146c1815c9738f93aa14484
+bdfa585cf245889b3db13ce933a34084
+bdfa597acf0fb8
+b0fa3013c854d69b3fa239f33ea440edef503c680064f03240d8e26e0e1c35e03f5afe9ff67468789e934a
+b0fa3b13e654d9de5ca132f521bc44fcbc003b740675a2230f8ceb7f5a1827fe7660fc92f66e312ca59f2cfa58d55d2d51e6e3
+b0fa3b13e15bd69b1fa22dee27ba44ae8e4c3a2969
+b0fa3013d754dccf15ad3aba26a701faa6456e721331ee3813c9aa6e401d37b53e4fb393eb202f79989829e25a87412335
+b0fa3b13eb5cded75c803cfe3ba44defac0e44
+:END:
+
+** Nicholas Barrow (Raven Foolish)
+- Connection: Brother
+- BIO:
+  + First son of Ashton Barrow
+  + Lex's older brother
+
+** Ashton Barrow
+- Connection: Father
+- BIO:
+  + Head of the Night City branch of the Barrow
+    crime family.
+  + Doesn't believe Lex committed the murder of
+    Tommie Barrow.
+  + Main enemy is the leader of the Italian Mob,
+    Bruce Skiv (The Boss).
+
+** Tommie Barrow
+- Connection: Cousin
+- STATUS: DEAD
+- BIO:
+  + Lex's Cousin who he was framed for killing.
+  + Found with a 9mm caseless bullet in him,
+    but Lex doesn’t use caseless bullets
+  + Lex was found with the body, but with no weapons
+  + Some elements of the family think it was Lex,
+    but there’s no concrete evidence.
+  + His Father has to kick Lex out of the family,
+    but doesn’t believe it was Lex.
+
+** Elliot Sullivan
+- Connection: Friend
+- Class: Corpo
+- Corp: Militech
+- BIO:
+  + Nice guy, but a complete ass when drunk.
+    After one night of drinking around Lake Park(C2)
+    he attacked and killed a member of The Pack
+    putting him in hot water.
+  + Lex was able to smooth it out before Kilven Wilkson
+    sent Andrew Scythe(of Hacienda) to kill him.
+  + Now is a Corporate Exec with Militech and
+    owes Lex a Big Favor.
+
+** Rina
+- Connection: Mentor
+- Class: Fixer
+- BIO:
+  + Mentored Lex as a fixer
+  + Still friendly with Lex
+- Looks:
+  + Clothes: High Fashion
+  + Hairstyle: Near and Short
+  + Affections: Tattoos
+  + Ethnic Origin: Japanese
+
+** Martha Harris
+- Connection: Old Flame / Little Italy Contact
+- BIO:
+  + Old flame of Lex's during his teens.
+  + Secretary with Balboa.
+    - Balboa Aeronautics (A1#24)
+  + Excellent source of Mob information.
+  + She knows how to keep her mouth shut.
+
+* Booker Related Characters
+** Naveed Baqir (SteelJaw)
+- Connection: Booker's friend from the arcology.
+- Class: Techie
+- BIO:
+  + Sent to Apple correctional facility by Grandfather
+    b/c he kept rigging electronics to play pranks.
+    - The Grandfather actually did it to protect Naveed
+      his sisters from his parents increase in boostergang
+      activity.
+  + Became quick friends w/ Booker.
+  + When Booker became a Detective in the arcology
+    he would help Booker out whenever he could.
+  + He went to make a life in Night City working with
+    Mustang Arms Co.(A5#7) and getting the landowner rights
+    from granddad for an apartment complex right outside
+    the combat zone, near Charter Hill.
+
+- Looks:
+  + Clothes: Overalls
+  + Hairstyle: Tinted
+  + Affections: Red Scarf
+  + Ethnic Origin: Middle Eastern
+
+*** Family Background
+- Rank: Crime Family
+- Parents: Both Dead
+- Family Status: Killed by rival gang.
+- Childhood: Arcology City (Apple Arcology City (J1))
+- Siblings: 2 Siblings
+  + Has an 2 younger sisters, Ophelia and Safa.
+  + They all like each other.
+
+*** Motivations
+- Traits: Friendly and outgoing
+- Valued Person: Sisters
+- Value Most: Your Word
+- Valued Possession: A piece of clothing (His Red Scarf)
+
+*** Life Events
+- 17) Find a Combat Teacher (Add +1 to any weapon skill)
+- 18) Reconnected with Booker. Helped w/ a job.
+- 19) Secret that parents were part of crime family was
+      exposed forcing him and his sisters to leave the
+      Arcology City and make a living in Night City.
+- 20) One of his sisters was killed viciously as if
+      an animal did it. He still doesn't know who or what
+      did it.
+- 21) Got back in touch w/ Andromeda, but knows if Booker
+      found out he would be furious. Is trying to convince
+      both to leave the feud behind.
+- 22) NA
+
+
+** Andromeda
+- Class: Corpo
+- Corp: Zetatech
+- Connection: Old Flame
+- BIO:
+  + Old Flame of Booker, but after realizing Booker
+    was cheating on him she made it her mission to
+    ruin his life.
+
+** Wei Chao (Winston)
+- Connection: Booker's Dad
+- Class: Netrunner
+- Corp: WorldSat Communications Network
+- BIO:
+  + Always wanted kids and was able to
+    convince his wife to have Booker on
+    the premise that it would increase
+    their social standing.
+  + Work got the best of him and missed
+    out on Booker's formative years and
+    regrets this and wants to makeup for
+    lost time.
+  + Promised Booker that if he needs anything just ask.
+
+** Hai Chao (Hannah)
+- Connection: Booker's Mother
+- Class: Corpo
+- Corp: WorldSat Communications Network
+- BIO:
+  + Never wanted kids and only had Booker to
+    increase their social standing and was looking
+    for any excuse to get rid of Booker.
+  + Luckily Booker's rebellious phase gave the perfect
+    excuse to send him to the Apple correctional facility
+    located in the top floor of the Apple Arcology City(J1).
+  + Doesn't care to ever talk to Booker again especially since
+    he got a job as a lowly cop.
+
+** Iris Mercy
+- Connection: Friend w/ Benefits
+- Class: Cop(NCPD)

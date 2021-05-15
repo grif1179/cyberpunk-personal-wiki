@@ -9,4 +9,6 @@
   - [[file:corps.org][CORPORATIONS]]
   - [[file:starting_character.org][STARTING_CHARACTER]]
   - [[file:combat.org][COMBAT]]
+  - [[file:stores.org][STORES]]
   - [[file:house_rules.org][HOUSE RULES]]
+  - [[file:diary.org][GAME DIARY]] 

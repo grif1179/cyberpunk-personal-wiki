@@ -5,3 +5,5 @@ tmp/
 key_boi.py
 soulkiller
 __pycache__
+roll20/*
+roll20_scripts.org

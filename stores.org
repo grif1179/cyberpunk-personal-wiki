@@ -1,0 +1,90 @@
+[[file:index.org][Return to Home]]
+* Stores
+** Weapons
+- The Urban Ranger (A1#5)
+- Malorian Firearms, Inc (C5#10)
+
+** Cyberware
+- Mustang Arms Co. (A5#7)
+
+- Wierd Stuff (A6#3)
+  + Can sell stolen goods here
+
+** Tech
+- Counter Intelligence Associates (B5#15)
+
+** Body Banks
+- Medicross Preservation (A5#15)
+
+** Fashion
+- Guido's Fashion Trim (A1#4)
+
+- Lucky Barber Shop (A6#9)
+
+** Medical
+- The Clinic (A1#7)
+
+- Chrome Cross (A5#4)
+  + Medical supply shop
+
+- REO Meatwagon (B5#3)
+
+- Savannah Medical Supply Warehouse (B5#6)
+
+- Night City Medical Center (B5#23)
+
+- Hasagumi (C3#8)
+  + Bio-sculpting/beauty parlor
+
+** Housing
+- Tokyo East Luxury Apartments (A1#14)
+
+- The Jellical Inn (B4#15)
+
+** Food
+- Beppo's Trattoria (A1#16)
+
+- 24 Hour Cafe (A5#10)
+
+- Joe's Diner (A6#1)
+
+** General Store
+- Marcini's (A3#5)
+
+- Global Foods (A4#19)
+
+** Clubs
+- Totentanz (A3#7)
+  + Located in Burleson Tower
+
+- The Slammer (A4#3)
+  + Has the Arena
+
+- Metalstrom (A4#5)
+
+- Cafe Chrome (A4#12)
+
+- The Rainbow Nights Dance Club (B2#9)
+
+- The Afterlife (B4#8)
+
+** Music Store
+- Metal Heaven (A4#8)
+
+- Blue Light Special Sales (A6#15)
+
+** Property to Buy
+- Office Building (C4#3)
+- Brookhaven Co-op
+
+** Misc
+- Night City Police Headquarters (C4#1)
+- The Holy Church of God
+  + Broadcasts the KNOW religious radio show hosted by Dieter Scheumann.
+  + The actual church is ran by Paul and Mary Night.
+
+- Kitty Liquor (A4#6)
+
+- Arcade Arcade (A6#13)
+
+- The Toy Box (C4#18)

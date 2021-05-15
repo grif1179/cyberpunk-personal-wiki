@@ -1,0 +1,187 @@
+[[file:~/Insync/grif1179@gmail.com/Google Drive/personal/cyberpunk/cyberpunk-wiki/index.org][Return to Home]] | [[file:~/Insync/grif1179@gmail.com/Google Drive/personal/cyberpunk/cyberpunk-wiki/characters.org][Back to Characters]]
+** BASE
+*** Basic Goon
+- class: Solo
+- Age: 20-30
+
+**** STATS
+| INT | REF | TECH | COOL | ATTR | LUCK | MA | BODY | EMP | RUN | LEAP | LIFT | SAVE | BTM |
+|   5 |  10 |    1 |    5 |    2 |    0 |  6 |    9 |   0 |  18 | 4m   | 90kg |    9 |  -3 |
+
+**** Armor
+ - Med Armor Jacket
+   + Covers: Torso, Arms
+   + SP: 18
+   + EV: +1
+ - Light Helmet
+   + Covers: Head
+   + SP: 20
+   + EV: 0
+
+| Location | Head (1) | Torso (2-4) | R. Arm (5) | L. Arm (6) | R. Leg (7-8) | L. Leg (9-0) |
+| Armor SP |       20 |          18 |         18 |         18 |            0 |            0 |
+
+**** Status
+| Condition | LIGHT    | SERIOUS  | CRITICAL | MORTAL 0 | MORTAL 1 |
+| Stun      | 0        | -1       | -2       | -3       | -4       |
+| State     | [][][][] | [][][][] | [][][][] | [][][][] | [][][][] |
+|           |          |          |          |          |          |
+| Condition | MORTAL 2 | MORTAL 3 | MORTAL 4 | MORTAL 5 | MORTAL 6 |
+| Stun      | -5       | -6       | -7       | -8       | -9       |
+| State     | [][][][] | [][][][] | [][][][] | [][][][] | [][][][] |
+
+
+**** Skills
+- Combat Sense: +5
+
+| REF       |    |
+| Athletics |  5 |
+| Brawling  |  5 |
+| Driving   |  7 |
+| Handgun   |  5 |
+| Karate    | +3 |
+| Melee     |  5 |
+| Rifle     |  5 |
+
+**** Cybernetics
+
+| Type           | Description                                      |
+| Cyberoptic eye | IR (See in total darkness, using heat emissions) |
+|                | Targeting scope (+1 on all smartgun attacks)     |
+
+**** Weapons
+ - +1 w/ smartguns(Targeting scope)
+| Name                            | Type | WA | Con | Dmg       | Shots | ROF | Range |
+| Sternmeyer Type 35 Heavy Pistol | P    | -1 | J   | 3D6(11mm) |     8 |   2 | 50m   |
+
+*** Silver Slash Member
+- Class: NA
+- Age: (16-28)
+- Visual Description: Light blue shirt, rainbow suspenders, One-World emblem,
+                      most have long hair
+
+**** STATS
+| INT | REF | TECH | COOL | ATTR | LUCK | MA | BODY | EMP | RUN | LEAP | LIFT  | SAVE | BTM |
+|   7 |   7 |    5 |    8 |    7 |    5 |  7 |    6 | 7   | 21m | 5m   | 240kg |    6 |  -2 |
+
+**** Armor
+| Location | Head (1) | Torso (2-4) | R. Arm (5) | L. Arm (6) | R. Leg (7-8) | L. Leg (9-0) |
+| Armor SP |        0 |          14 |         14 |         14 |           14 |           14 |
+
+**** Status
+| Condition | LIGHT    | SERIOUS  | CRITICAL | MORTAL 0 | MORTAL 1 |
+| Stun      | 0        | -1       | -2       | -3       | -4       |
+| State     | [][][][] | [][][][] | [][][][] | [][][][] | [][][][] |
+|           |          |          |          |          |          |
+| Condition | MORTAL 2 | MORTAL 3 | MORTAL 4 | MORTAL 5 | MORTAL 6 |
+| Stun      | -5       | -6       | -7       | -8       | -9       |
+| State     | [][][][] | [][][][] | [][][][] | [][][][] | [][][][] |
+
+**** Skills
+- SPECIAL ABILITY():
+| ATTR |   | # | BODY |   | # | COOL/WILL |   | # | EMPATHY |   |
+|      |   | # |      |   | # |           |   | # |         |   |
+
+| INT        |   | # | REF            |   | # | TECH      |   |
+| Streetwise | 7 | # | Karate         | 8 | # | First Aid | 4 |
+| Shadow     | 3 | # | Athletics      | 7 | # |           |   |
+| Education  | 4 | # | Martial Arts   | 6 | # |           |   |
+|            |   | # | Handgun        | 5 | # |           |   |
+|            |   | # | Dodge & Escape | 5 | # |           |   |
+
+**** Cybernetics
+
+| Type                  | Description |
+| Sandevistan Speedware | Adds +3 to Initiative rolls for 5 turns |
+
+**** Weapons
+| Name                 | Type  | WA | Con |   Dmg | Shots | ROF | Rel | Range |
+| Federated Arms X-9mm | P     |  0 | J   | 2D6+1 |    12 |   2 | ST  | 50m   |
+| Brass Knuckles       | Melee |  0 | P   | 1D6+2 |       |     |     |       |
+| Switchblade          | Melee |  0 | P   | 1D6/2 |       |     |     |       |
+
+
+** CUSTOM
+*** Borged Silver Slash Member
+- Class: NA
+- Age: (16-28)
+- Visual Description: Light blue shirt, rainbow suspenders, One-World emblem,
+                      most have long hair
+
+**** STATS
+| INT | REF | TECH | COOL | ATTR | LUCK | MA | BODY | EMP | RUN | LEAP | LIFT  | SAVE | BTM |
+|   7 |   7 |    5 |    8 |    7 |    5 |  7 |    6 | 7   | 21m | 5m   | 240kg |    6 |  -2 |
+
+**** Armor
+| Location | Head (1) | Torso (2-4) | R. Arm (5) | L. Arm (6) | R. Leg (7-8) | L. Leg (9-0) |
+| Armor SP |        0 |          14 |         14 |         14 |           14 |           14 |
+
+**** Status
+| Condition | LIGHT    | SERIOUS  | CRITICAL | MORTAL 0 | MORTAL 1 |
+| Stun      | 0        | -1       | -2       | -3       | -4       |
+| State     | [][][][] | [][][][] | [][][][] | [][][][] | [][][][] |
+|           |          |          |          |          |          |
+| Condition | MORTAL 2 | MORTAL 3 | MORTAL 4 | MORTAL 5 | MORTAL 6 |
+| Stun      | -5       | -6       | -7       | -8       | -9       |
+| State     | [][][][] | [][][][] | [][][][] | [][][][] | [][][][] |
+
+**** Skills
+- SPECIAL ABILITY():
+| ATTR |   | # | BODY |   | # | COOL/WILL |   | # | EMPATHY |   |
+|      |   | # |      |   | # |           |   | # |         |   |
+
+| INT        |   | # | REF            |   | # | TECH      |   |
+| Streetwise | 7 | # | Karate         | 8 | # | First Aid | 4 |
+| Shadow     | 3 | # | Athletics      | 7 | # |           |   |
+| Education  | 4 | # | Martial Arts   | 6 | # |           |   |
+|            |   | # | Handgun        | 5 | # |           |   |
+|            |   | # | Dodge & Escape | 5 | # |           |   |
+
+**** Cybernetics
+
+| Type                  | Description                             |
+| Sandevistan Speedware | Adds +3 to Initiative rolls for 5 turns |
+| 2 CyberArms           |                                         |
+| Thickened Myomar      | Increase limb SDP to 25/35, 2x DMG      |
+| RealSkinn             | DIFFICULT task to see CyberArms         |
+| Pain Editor           | Lower Endurance Skill checks by 2 lvls  |
+
+**** Weapons
+| Name                 | Type  | WA | Con |   Dmg | Shots | ROF | Rel | Range |
+| Federated Arms X-9mm | P     |  0 | J   | 2D6+1 |    12 |   2 | ST  | 50m   |
+| Brass Knuckles       | Melee |  0 | P   | 1D6+2 |       |     |     |       |
+| Switchblade          | Melee |  0 | P   | 1D6/2 |       |     |     |       |
+
+*** Campus Police
+- class: Cop
+- Age: 30-50
+
+**** STATS
+     | INT | REF | TECH | COOL | ATTR | LUCK | MA | BODY | EMP | RUN | LEAP | LIFT  | SAVE | BTM |
+     |   5 |   7 |    3 |    5 |    5 |    3 |  6 |    6 |   6 | 18m | 4m   | 240kg |    6 |  -2 |
+
+**** Armor
+     | Location | Head (1) | Torso (2-4) | R. Arm (5) | L. Arm (6) | R. Leg (7-8) | L. Leg (9-0) |
+     | Armor SP |       12 |          14 |         14 |         14 |            8 |            8 |
+
+**** Status
+     | Condition | LIGHT    | SERIOUS  | CRITICAL | MORTAL 0 | MORTAL 1 |
+     | Stun      | 0        | -1       | -2       | -3       | -4       |
+     | State     | [][][][] | [][][][] | [][][][] | [][][][] | [][][][] |
+     |           |          |          |          |          |          |
+     | Condition | MORTAL 2 | MORTAL 3 | MORTAL 4 | MORTAL 5 | MORTAL 6 |
+     | Stun      | -5       | -6       | -7       | -8       | -9       |
+     | State     | [][][][] | [][][][] | [][][][] | [][][][] | [][][][] |
+
+**** Skills
+- Authority (4):
+| COOL/WILL     |   | # | EMPATHY          |   |
+| Interrogation | 4 | # | Human Perception | 2 |
+
+| INT       |   | # | REF    |   |
+| Awareness | 3 | # | Pistol | 5 |
+
+**** Weapons
+     | Name           | Type  | WA | Con | Dmg        | Shots | ROF | Rel. | Range |
+     | Federated Arms | P     |  0 | P   | 1D6+1(6mm) | 10    | 2   | ST   | 50m   |
+     | Baton          | Melee |  0 | L   | 1D6        | NA    | NA  | NA   | 1m    |
